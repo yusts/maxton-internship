@@ -1,0 +1,89 @@
+1586445526a:1:{s:14:"pagination.htm";a:5:{s:8:"fileName";s:14:"pagination.htm";s:7:"content";s:1052:"<!-- Pagination -->
+<div class="pagination">
+    <a href="#">
+        <div class="pagination__item">
+            <div class="pagination__center">
+                1
+            </div>
+        </div>
+    </a>
+    <a href="#">
+        <div class="pagination__item active">
+            <div class="pagination__center">
+                2
+            </div>
+        </div>
+    </a>
+    <a href="#">
+        <div class="pagination__item">
+            <div class="pagination__center">
+                3
+            </div>
+        </div>
+    </a>
+    <a href="#">
+        <div class="pagination__item">
+            <div class="pagination__center">
+                4
+            </div>
+        </div>
+    </a>
+    <a href="#">
+        <div class="pagination__item">
+            <div class="pagination__center">
+                5
+            </div>
+        </div>
+    </a>
+    <a href="#">
+        <div class="pagination__item">
+            <div class="pagination__center">
+                6
+            </div>
+        </div>
+    </a>
+</div> <!-- /.pagintaion -->";s:5:"mtime";i:1586435318;s:6:"markup";s:1052:"<!-- Pagination -->
+<div class="pagination">
+    <a href="#">
+        <div class="pagination__item">
+            <div class="pagination__center">
+                1
+            </div>
+        </div>
+    </a>
+    <a href="#">
+        <div class="pagination__item active">
+            <div class="pagination__center">
+                2
+            </div>
+        </div>
+    </a>
+    <a href="#">
+        <div class="pagination__item">
+            <div class="pagination__center">
+                3
+            </div>
+        </div>
+    </a>
+    <a href="#">
+        <div class="pagination__item">
+            <div class="pagination__center">
+                4
+            </div>
+        </div>
+    </a>
+    <a href="#">
+        <div class="pagination__item">
+            <div class="pagination__center">
+                5
+            </div>
+        </div>
+    </a>
+    <a href="#">
+        <div class="pagination__item">
+            <div class="pagination__center">
+                6
+            </div>
+        </div>
+    </a>
+</div> <!-- /.pagintaion -->";s:4:"code";N;}}

@@ -1,0 +1,20 @@
+1586445384a:1:{s:14:"breadcrump.htm";a:5:{s:8:"fileName";s:14:"breadcrump.htm";s:7:"content";s:310:"<!-- Breadcrumps -->
+<div class="breadcrumps">
+    <div class="container">
+        <ul class="breadcrumps__list">
+            <li><a href="{{ 'home'|page }}">Strona główna</a></li>
+            <li><a href="#">Projekty</a></li>
+            <li>Zestaw spoilerów do BMW M1</li>
+        </ul>
+    </div>
+</div>
+";s:5:"mtime";i:1586429139;s:6:"markup";s:309:"<!-- Breadcrumps -->
+<div class="breadcrumps">
+    <div class="container">
+        <ul class="breadcrumps__list">
+            <li><a href="{{ 'home'|page }}">Strona główna</a></li>
+            <li><a href="#">Projekty</a></li>
+            <li>Zestaw spoilerów do BMW M1</li>
+        </ul>
+    </div>
+</div>";s:4:"code";N;}}

@@ -1,0 +1,29 @@
+@mixin adapt-lg {
+    @media screen and (max-width: 1230px) {
+        @content;
+    }
+}
+
+@mixin  adapt-medium {
+    @media screen and (max-width:990px) {
+        @content;
+    }
+}
+
+@mixin adapt-small {
+    @media screen and (max-width: 770px){
+        @content;
+    }
+}
+
+@mixin  mobile {
+    @media screen and (max-width: 575px) {
+        @content;
+    }
+}
+
+@mixin adapt-ht {
+    @media screen and (max-height: 862px) {
+        @content;
+    }
+}

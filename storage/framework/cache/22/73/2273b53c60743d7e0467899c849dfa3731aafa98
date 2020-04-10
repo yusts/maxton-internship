@@ -1,0 +1,14 @@
+1586445384a:1:{s:10:"brands.htm";a:8:{s:8:"fileName";s:10:"brands.htm";s:7:"content";s:148:"title = "Maxton Design"
+url = "/brands"
+layout = "default"
+==
+
+<!-- Breadcrumps -->
+{% partial 'breadcrump' %}
+
+<!-- Marks -->
+{% partial 'marks' %}";s:5:"mtime";i:1586429054;s:6:"markup";s:85:"<!-- Breadcrumps -->
+{% partial 'breadcrump' %}
+
+<!-- Marks -->
+{% partial 'marks' %}";s:4:"code";N;s:5:"title";s:13:"Maxton Design";s:3:"url";s:7:"/brands";s:6:"layout";s:7:"default";}}

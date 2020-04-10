@@ -1,0 +1,127 @@
+1586445384a:1:{s:10:"header.htm";a:5:{s:8:"fileName";s:10:"header.htm";s:7:"content";s:2267:" <!-- Header -->
+ <header class="header">
+     <div class="header__inner">
+
+         <a href="{{ 'home'|page }}" class="header__logo">
+             <img class="header__img" src="{{ 'assets/images/header/logo.png'|theme }}" alt="">
+         </a>
+
+         <div class="top">
+             <div class="top__search">
+                 <i class="fas fa-search top__icon top__icon-search"></i>
+                 <input class="top__input" type="text" placeholder="Wpisz czego szukasz">
+             </div>
+             <div class="top__icons">
+                 <a href="#" class="top__icon"><i class="fab fa-facebook-f"></i></a>
+                 <a href="#" class="top__icon"><i class="fab fa-instagram"></i></a>
+                 <a href="#" class="top__icon"><i class="far fa-envelope"></i></a>
+                 <a href="#" class="top__icon"><i class="far fa-heart"></i></a>
+             </div>
+         </div>
+
+         <nav class="nav">
+             <div class="nav__inner">
+                 <div class="nav__items">
+                     <a href="brands">
+                         <div class="nav__link">MARKI</div>
+                     </a>
+                     <a href="projects">
+                         <div class="nav__link">PROJEKTY</div>
+                     </a>
+                     <a href="#">
+                         <div class="nav__link">SKLEP</div>
+                     </a>
+                     <a href="#">
+                         <div class="nav__link">O FIRMIE</div>
+                     </a>
+                     <a href="#">
+                         <div class="nav__link">KONTAKT</div>
+                     </a>
+                 </div>
+             </div>
+         </nav>
+
+         <div id="toggle">
+             <div class="one"></div>
+             <div class="two"></div>
+             <div class="three"></div>
+         </div>
+
+     </div>
+
+     <div id="menu" class="menu">
+         <div class="menu__inner">
+             <ul>
+                 <li><a href="brands">MARKI</a></li>
+                 <li><a href="projects">PROJEKTY</a></li>
+                 <li><a href="#">SKLEP</a></li>
+                 <li><a href="#">O FIRMIE</a></li>
+                 <li> <a href="#">KONTAKT</a></li>
+             </ul>
+         </div>
+     </div>
+
+ </header>";s:5:"mtime";i:1586426915;s:6:"markup";s:2266:"<!-- Header -->
+ <header class="header">
+     <div class="header__inner">
+
+         <a href="{{ 'home'|page }}" class="header__logo">
+             <img class="header__img" src="{{ 'assets/images/header/logo.png'|theme }}" alt="">
+         </a>
+
+         <div class="top">
+             <div class="top__search">
+                 <i class="fas fa-search top__icon top__icon-search"></i>
+                 <input class="top__input" type="text" placeholder="Wpisz czego szukasz">
+             </div>
+             <div class="top__icons">
+                 <a href="#" class="top__icon"><i class="fab fa-facebook-f"></i></a>
+                 <a href="#" class="top__icon"><i class="fab fa-instagram"></i></a>
+                 <a href="#" class="top__icon"><i class="far fa-envelope"></i></a>
+                 <a href="#" class="top__icon"><i class="far fa-heart"></i></a>
+             </div>
+         </div>
+
+         <nav class="nav">
+             <div class="nav__inner">
+                 <div class="nav__items">
+                     <a href="brands">
+                         <div class="nav__link">MARKI</div>
+                     </a>
+                     <a href="projects">
+                         <div class="nav__link">PROJEKTY</div>
+                     </a>
+                     <a href="#">
+                         <div class="nav__link">SKLEP</div>
+                     </a>
+                     <a href="#">
+                         <div class="nav__link">O FIRMIE</div>
+                     </a>
+                     <a href="#">
+                         <div class="nav__link">KONTAKT</div>
+                     </a>
+                 </div>
+             </div>
+         </nav>
+
+         <div id="toggle">
+             <div class="one"></div>
+             <div class="two"></div>
+             <div class="three"></div>
+         </div>
+
+     </div>
+
+     <div id="menu" class="menu">
+         <div class="menu__inner">
+             <ul>
+                 <li><a href="brands">MARKI</a></li>
+                 <li><a href="projects">PROJEKTY</a></li>
+                 <li><a href="#">SKLEP</a></li>
+                 <li><a href="#">O FIRMIE</a></li>
+                 <li> <a href="#">KONTAKT</a></li>
+             </ul>
+         </div>
+     </div>
+
+ </header>";s:4:"code";N;}}

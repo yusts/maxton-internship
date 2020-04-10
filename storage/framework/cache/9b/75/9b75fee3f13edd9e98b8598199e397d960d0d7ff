@@ -1,0 +1,88 @@
+1586445384a:1:{s:12:"projects.htm";a:9:{s:8:"fileName";s:12:"projects.htm";s:7:"content";s:1165:"title = "Maxton Design"
+url = "/projects"
+layout = "default"
+is_hidden = 0
+==
+<!-- Project -->
+<section class="section">
+
+    <!-- Breadcrumps -->
+    {% partial 'breadcrump' %}
+
+    <div class="project">
+
+        <div class="project__header">
+            <div class="container">
+                <div class="project__inner">
+                    <div class="project__our">
+                        NASZE PROJEKTY
+                    </div>
+                    <a href="#">
+                        <div class="project__sort">
+                            <div class="project__sort-item">
+                                Sortuj po marce:
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="project__content">
+            <div class="container">
+
+                <!-- Project -->
+                {% partial 'project' %}
+
+                <!-- Pagination -->
+                {% partial 'pagination' %}
+
+            </div> 
+        </div> 
+    </div>
+
+</section>
+
+<!-- Featured movies -->
+{% partial 'movies' %}";s:5:"mtime";i:1586435455;s:6:"markup";s:1082:"<!-- Project -->
+<section class="section">
+
+    <!-- Breadcrumps -->
+    {% partial 'breadcrump' %}
+
+    <div class="project">
+
+        <div class="project__header">
+            <div class="container">
+                <div class="project__inner">
+                    <div class="project__our">
+                        NASZE PROJEKTY
+                    </div>
+                    <a href="#">
+                        <div class="project__sort">
+                            <div class="project__sort-item">
+                                Sortuj po marce:
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="project__content">
+            <div class="container">
+
+                <!-- Project -->
+                {% partial 'project' %}
+
+                <!-- Pagination -->
+                {% partial 'pagination' %}
+
+            </div> 
+        </div> 
+    </div>
+
+</section>
+
+<!-- Featured movies -->
+{% partial 'movies' %}";s:4:"code";N;s:5:"title";s:13:"Maxton Design";s:3:"url";s:9:"/projects";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";}}

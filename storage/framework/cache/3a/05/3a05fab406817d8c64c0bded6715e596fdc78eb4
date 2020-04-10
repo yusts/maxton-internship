@@ -1,0 +1,69 @@
+1586445392a:1:{s:12:"carousel.htm";a:5:{s:8:"fileName";s:12:"carousel.htm";s:7:"content";s:1230:"<!-- Carousel -->
+<div class="swiper">
+    <div class="container">
+        <div class="swiper-container">
+
+            <div class="swiper-wrapper">
+
+                <div class="swiper-slide">
+                    <img class="swiper__img" src="{{ 'assets/images/intro/1.png'|theme }}" alt="">
+                    <div class="swiper__title">
+                        ZESTAW SPOILERÓW DO BMW M2
+                    </div>
+                </div>
+
+                <div class="swiper-slide">
+                    <img class="swiper__img" src="{{ 'assets/images/projects/3.png'|theme }}" alt="">
+                    <div class="swiper__title">
+                        ZESTAW SPOILERÓW DO BMW M2
+                    </div>
+
+                </div>
+
+                <div class="swiper-slide">
+                    <img class="swiper__img" src="{{ 'assets/images/projects/3.png'|theme }}" alt="">
+                    <div class="swiper__title">
+                        ZESTAW SPOILERÓW DO BMW M2
+                    </div>
+
+                </div>
+
+            </div> <!-- /.swiper-wrapper -->
+            <div class="swiper-pagination"></div>
+        </div> <!-- /.swiper-container -->
+    </div> <!-- /.container -->
+</div> <!-- /.swiper -->";s:5:"mtime";i:1586427474;s:6:"markup";s:1230:"<!-- Carousel -->
+<div class="swiper">
+    <div class="container">
+        <div class="swiper-container">
+
+            <div class="swiper-wrapper">
+
+                <div class="swiper-slide">
+                    <img class="swiper__img" src="{{ 'assets/images/intro/1.png'|theme }}" alt="">
+                    <div class="swiper__title">
+                        ZESTAW SPOILERÓW DO BMW M2
+                    </div>
+                </div>
+
+                <div class="swiper-slide">
+                    <img class="swiper__img" src="{{ 'assets/images/projects/3.png'|theme }}" alt="">
+                    <div class="swiper__title">
+                        ZESTAW SPOILERÓW DO BMW M2
+                    </div>
+
+                </div>
+
+                <div class="swiper-slide">
+                    <img class="swiper__img" src="{{ 'assets/images/projects/3.png'|theme }}" alt="">
+                    <div class="swiper__title">
+                        ZESTAW SPOILERÓW DO BMW M2
+                    </div>
+
+                </div>
+
+            </div> <!-- /.swiper-wrapper -->
+            <div class="swiper-pagination"></div>
+        </div> <!-- /.swiper-container -->
+    </div> <!-- /.container -->
+</div> <!-- /.swiper -->";s:4:"code";N;}}

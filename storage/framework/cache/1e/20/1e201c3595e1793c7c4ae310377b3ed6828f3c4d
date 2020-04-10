@@ -1,0 +1,40 @@
+1586445384a:1:{s:10:"footer.htm";a:5:{s:8:"fileName";s:10:"footer.htm";s:7:"content";s:581:"<!-- Footer -->
+<footer class="footer">
+    <div class="footer__lines">
+        <div class="footer__line">
+            line
+        </div>
+        <div class="footer__line footer__line-middle">
+            line
+        </div>
+        <div class="footer__line">
+            line
+        </div>
+    </div>
+    <div class="footer__copyright">
+        <div class="container">
+            <p class="footer__text">© Copyright 2013 by Maxton Design Realizacja: <a class="footer__link"
+                    href="http://argonium.pl">Argonium.pl</a></p>
+        </div>
+    </div>
+</footer>
+";s:5:"mtime";i:1585930236;s:6:"markup";s:580:"<!-- Footer -->
+<footer class="footer">
+    <div class="footer__lines">
+        <div class="footer__line">
+            line
+        </div>
+        <div class="footer__line footer__line-middle">
+            line
+        </div>
+        <div class="footer__line">
+            line
+        </div>
+    </div>
+    <div class="footer__copyright">
+        <div class="container">
+            <p class="footer__text">© Copyright 2013 by Maxton Design Realizacja: <a class="footer__link"
+                    href="http://argonium.pl">Argonium.pl</a></p>
+        </div>
+    </div>
+</footer>";s:4:"code";N;}}
