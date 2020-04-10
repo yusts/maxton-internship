@@ -1,0 +1,292 @@
+.brand {
+  max-width: 1683px;
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 82px;
+
+  &__header {
+    color: $primary-color;
+    font-family: "CHbold";
+    font-size: 35px;
+    font-weight: $bold;
+    text-transform: uppercase;
+    letter-spacing: 0.88px;
+    margin-bottom: 60px;
+
+    @include mobile {
+      margin-bottom: 20px;
+    }
+  }
+
+  &__content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  &__item {
+    display: flex;
+    flex: 1 1 0;
+    justify-content: center;
+
+    @include mobile {
+      flex: 1 1 100%;
+      margin: 15px 0;
+    }
+
+    img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+    }
+  }
+}
+
+.about {
+  padding: 0 46px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 99px;
+
+  @include adapt-small {
+    flex-direction: column;
+    padding: 0;
+  }
+
+  &__img {
+    width: 50%;
+
+    @include adapt-small {
+      width: 100%;
+    }
+
+    img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+    }
+  }
+
+  &__content {
+    width: 40%;
+    color: $white-color;
+    max-width: 768px;
+    height: 335px;
+    overflow: hidden;
+
+    @include adapt-small {
+      width: 100%;
+      margin-top: 20px;
+    }
+  }
+
+  &__title {
+    font-family: "CHbold";
+    font-size: 36px;
+    font-weight: $bold;
+    font-style: $italic;
+    letter-spacing: 0.9px;
+    text-transform: uppercase;
+    padding-bottom: 30px;
+
+    @include adapt-small {
+      padding-bottom: 0;
+    }
+  }
+
+  &__text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: $regular;
+    overflow: hidden;
+  }
+}
+
+.movies {
+  &__title {
+    color: $white-color;
+    font-family: "CHbold";
+    font-size: 30px;
+    font-weight: $bold;
+    text-transform: uppercase;
+    letter-spacing: 0.75px;
+    margin-bottom: 49px;
+
+    @include adapt-medium {
+      font-size: 26px;
+      margin-bottom: 20px;
+    }
+  }
+
+  &__items {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+  }
+  &__item {
+    width: 24%;
+    @include adapt-medium {
+     width: 49%; 
+    }
+    @include mobile {
+      width: 100%;
+      padding-bottom: 15px;
+    }
+  }
+
+  &__frame {
+    width: 100%;
+    height: 240px;
+  }
+
+  &__text {
+    margin: 75px 0;
+    padding: 0 34px;
+    color: $white-color;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: $regular;
+    letter-spacing: 0.4px;
+    text-align: justify;
+
+    @include adapt-small {
+      padding: 0;
+      margin: 55px 0;
+    }
+  }
+}
+
+.mark {
+  &__title {
+    color: $white-color;
+    font-family: "CHbold";
+    font-size: 60px;
+    font-weight: $bold;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    margin-top: 45px;
+
+    @include adapt-lg {
+      font-size: 40px;
+      margin-top: 20px;
+    }
+  }
+
+  &__items {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+
+    @include adapt-lg {
+      flex-direction: row;
+      justify-content: space-between;
+    }
+
+    @include mobile {
+      justify-content: center;
+    }
+  }
+
+  &__row {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+
+    @include adapt-lg {
+      flex-direction: column;
+      width: 32.33333%;
+    }
+
+    @include mobile {
+      width: 100%;
+    }
+  }
+
+  &__item {
+    border: 1px solid $primary-color;
+    flex: 1 1 0;
+    margin-left: 10px;
+
+    @include adapt-lg {
+      width: 100%;
+      height: 250px;
+      flex: none;
+      margin-left: 0;
+      margin-bottom: 10px;
+    }
+
+    &:first-child {
+      margin-left: 0;
+    }
+  }
+
+  &__inner {
+    padding: 63px 0 19px;
+    text-align: center;
+
+    @include adapt-lg {
+      padding: 0;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    @include mobile {
+      padding: 0 15px;
+    }
+  }
+
+  &__image {
+    margin-bottom: 65px;
+    max-width: 100%;
+    height: auto;
+
+    @include adapt-lg {
+      margin: 0;
+      padding-bottom: 25px;
+    }
+  }
+
+  &__info {
+    color: $white-color;
+    font-family: "CHbold";
+    font-size: 25px;
+    font-weight: $bold;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+
+    @include mobile {
+      font-size: 18px;
+    }
+  }
+
+  &__amount {
+    color: $primary-color;
+    font-size: 16px;
+    font-family: "CHbold";
+    font-weight: $bold;
+    letter-spacing: 0.4px;
+  }
+
+  &__about {
+    margin: 75px 0;
+    padding: 0 34px;
+    color: $white-color;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: $regular;
+    letter-spacing: 0.4px;
+    text-align: justify;
+
+    @include mobile {
+      padding: 0;
+    }
+  }
+}

@@ -1,0 +1,75 @@
+.swiper {
+  padding: 50px 0;
+
+  &-container {
+    width: 100%;
+    height: 45rem;
+
+    @include mobile {
+      height: 25rem;
+    }
+  }
+
+  &-slide {
+    text-align: center;
+    font-size: 18px;
+    background: $white-color;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  &-pagination-bullets {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    text-align: end;
+
+    @include mobile {
+      text-align: center;
+      right: 0 !important;
+    }
+  }
+
+  &__img {
+    vertical-align: middle;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+  }
+
+  &__title {
+    position: absolute;
+    bottom: 40px;
+    left: 62px;
+    text-align: start;
+    color: $white-color;
+    font-family: "CHbold";
+    font-size: 65px;
+    font-weight: $bold;
+    line-height: 77px;
+    text-transform: uppercase;
+    letter-spacing: 1.63px;
+    max-width: 648px;
+
+    @include adapt-lg {
+      font-size: 50px;
+      width: 40%;
+      line-height: 1.3;
+      bottom: 23px;
+      left: 31px;
+    }
+
+    @include adapt-medium {
+      width: 50%;
+      left: 23px;
+      font-size: 36px;
+    }
+
+    @include mobile {
+      display: none;
+    }
+  }
+}
