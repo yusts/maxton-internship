@@ -16,7 +16,7 @@ return [
     |
     */
 
-    'debug' => true,
+    'debug' => env('APP_DEBUG', true),
 
     /*
     |--------------------------------------------------------------------------
@@ -41,7 +41,7 @@ return [
     |
     */
 
-    'url' => 'maxton',
+    'url' => env('APP_URL', 'maxton'),
 
     /*
     |--------------------------------------------------------------------------
@@ -107,7 +107,7 @@ return [
     |
     */
 
-    'key' => 'mq9T7tX91CXwuUtdEfMtTTZ13SsXyp8s',
+    'key' => env('APP_KEY', ''),
 
     'cipher' => 'AES-256-CBC',
 

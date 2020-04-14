@@ -49,8 +49,7 @@ class __TwigTemplate_7ec5e13039a7c844886caa3bfebfa334410b792dfde989a36a2eeea0bb3
     </div>
     <div class=\"footer__copyright\">
         <div class=\"container\">
-            <p class=\"footer__text\">© Copyright 2013 by Maxton Design Realizacja: <a class=\"footer__link\"
-                    href=\"http://argonium.pl\">Argonium.pl</a></p>
+            <p class=\"footer__text\">© Copyright 2013 by Maxton Design Realizacja: <a class=\"footer__link\" href=\"http://argonium.pl\">Argonium.pl</a></p>
         </div>
     </div>
 </footer>";
@@ -83,8 +82,7 @@ class __TwigTemplate_7ec5e13039a7c844886caa3bfebfa334410b792dfde989a36a2eeea0bb3
     </div>
     <div class=\"footer__copyright\">
         <div class=\"container\">
-            <p class=\"footer__text\">© Copyright 2013 by Maxton Design Realizacja: <a class=\"footer__link\"
-                    href=\"http://argonium.pl\">Argonium.pl</a></p>
+            <p class=\"footer__text\">© Copyright 2013 by Maxton Design Realizacja: <a class=\"footer__link\" href=\"http://argonium.pl\">Argonium.pl</a></p>
         </div>
     </div>
 </footer>", "/var/www/html/maxton/themes/maxton/partials/footer.htm", "");
